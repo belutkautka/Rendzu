@@ -1,0 +1,6 @@
+pygame_menu
+random
+pygame
+sys
+pathlib
+os
